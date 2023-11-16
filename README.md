@@ -5,7 +5,7 @@
 ## Acerca de mí
 
 - 🐍 Desarrollador junior de Python
--  Aprendiendo :terraform:
+-  Aprendiendo terraform
 - 🎓 Graduado en Comunicación Audiovisual
 - 🌟 Apasionado por la tecnología y la informática
 - 🤝 Gran capacidad para trabajar en equipo
